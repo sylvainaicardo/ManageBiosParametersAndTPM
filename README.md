@@ -9,6 +9,7 @@ I developped This module because i needed to manage the 3 brand (HP, Dell and Le
 
 This module is based on the work and the documentations of :
 - Thomas Malkewitz : https://github.com/dotps1/HPTPMAndBitLocker.git
+- Script of https://github.com/PowerShellSith (Twitter: @PowerShellSith)
 - the HP site
 - the Lenovo site
 - the Dell site
